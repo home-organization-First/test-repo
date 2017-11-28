@@ -1,4 +1,10 @@
+
 name = Peter
 size =  100
 email = peter@dir.bg
 second email = peter2@dis.bg
+
+name = Ivailo
+size =  200
+email = ivosimeonov@dir.bg
+
